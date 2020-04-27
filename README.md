@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is the repository required as a Course Project on Week 4 of The Data Scientist's Toolbox course
+This repository contains the projects and assignments for the Coursera specialization on Data Science by the Johns Hopkins University.
