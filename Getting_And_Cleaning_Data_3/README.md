@@ -1,4 +1,4 @@
-# Getting and Cleaning Data | John Hopkins Coursera
+# Getting and Cleaning Data | Johns Hopkins Coursera
 Author: Eric Ridderstrom <br />
 
 ## Final Project
