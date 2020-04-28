@@ -1,7 +1,7 @@
 # Getting and Cleaning Data | John Hopkins Coursera
 
 ## Final Project
-Peer Graded Assignment # | Link 
+Peer Graded Assignment
 
 ## Contributors
 FirstName | LastName | Email
