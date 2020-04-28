@@ -10,6 +10,16 @@ Peer Graded Assignment -Week 4
 3. A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 4. Analysis R Script
 
+## Review Criteria
+
+Goal | Item | Link to Item
+--- | --- | ---
+Github Repo | Repo |  [Repository Link]()
+Analysis R Script |  run_analysis.R |  [R Script Link]()
+Tidy Data Set |  Clean Data Set |  [Data Set Link]()
+Cookbook | CookBook.md |  [Repository Link]()
+README | Current file |  [Repository Link](https://github.com/ericridderstrom/datasciencecoursera/edit/master/Getting_And_Cleaning_Data_3/README.md "README.md")
+
 ## Contributors
 FirstName | LastName | Email
 --- | --- | ---
