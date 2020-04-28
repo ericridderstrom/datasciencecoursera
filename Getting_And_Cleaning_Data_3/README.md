@@ -16,7 +16,7 @@ Goal | Item | Link to Item
 --- | --- | ---
 Github Repo | Repo |  [Repository Link]()
 Analysis R Script |  dataAcquisitionAndAnalysis.R |  [R Script Link](https://github.com/ericridderstrom/datasciencecoursera/blob/master/Getting_And_Cleaning_Data_3/dataAcquisitionAndAnalysis.R "dataAcquisitionAndAnalysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link]()
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/ericridderstrom/datasciencecoursera/blob/master/Getting_And_Cleaning_Data_3/TidyData.csv "TidyData.csv")
 Code Book | CookBook.md |  [Repository Link](https://github.com/ericridderstrom/datasciencecoursera/blob/master/Getting_And_Cleaning_Data_3/CookBook.md "CookBook.md")
 README | Current file |  [Repository Link](https://github.com/ericridderstrom/datasciencecoursera/blob/master/Getting_And_Cleaning_Data_3/README.md "README.md")
 
